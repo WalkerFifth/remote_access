@@ -10,4 +10,4 @@ xrandr --addmode VIRTUAL1 1280x800_60.00
 
 xrandr --output VIRTUAL1 --mode 1280x800_60.00 --left-of LVDS1
 
-echo "Testing camarilla branch from camarilla"
+echo "Testing camarilla branch from master"
